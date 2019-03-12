@@ -1,0 +1,6 @@
+framework module Pods_FZM_CMUI_Tests {
+  umbrella header "Pods-FZM_CMUI_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module FZM_CMUI {
+  umbrella header "FZM_CMUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

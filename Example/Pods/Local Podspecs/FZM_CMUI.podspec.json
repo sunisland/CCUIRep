@@ -1,0 +1,22 @@
+{
+  "name": "FZM_CMUI",
+  "version": "0.1.14",
+  "summary": "A short description of FZM_CMUI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://gitlab.33.cn/CloudMinerIOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "2711056454@qq.com": "2711056454@qq.com"
+  },
+  "source": {
+    "git": "git@gitlab.33.cn:CloudMinerIOS/FZM_CMUIRep.git",
+    "tag": "0.1.14"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FZM_CMUI/Classes/**/*"
+}

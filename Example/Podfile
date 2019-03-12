@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FZM_CMUI_Example' do
+  pod 'FZM_CMUI', :path => '../'
+
+  target 'FZM_CMUI_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
